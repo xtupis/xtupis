@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Michael from ....<br><br>- 🔭 I’m working as UNIONG.CHAT CEO<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Michael from Kazakhstan<br><br>- 🔭 I’m working as UNIONG.CHAT CEO<br>- 📚 I'm currently learning Dart and Flutter<br>- ⚡ In my free time I read books and trying Arch</p>
 
 ###
 
@@ -42,12 +42,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  /> -->
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats : I use Arch by the way</h3>
 
 ###
 <!-- ... 
