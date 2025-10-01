@@ -40,7 +40,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg](https://github.com/devicons/devicon/blob/v2.17.0/icons/dart/dart-original-wordmark.svg)" height="40" alt="kubernetes logo"  />
+  <img src="[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg](https://github.com/devicons/devicon/blob/v2.17.0/icons/dart/dart-original.svg)]" height="40" alt="kubernetes logo"  />
   <img width="12" />
  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  /> -->
 </div>
